@@ -6,7 +6,7 @@ Greseala de scriere,$3.000.000,Anunturi RP,a5a842
 Scrierea gresita a unui nume de vehicul,$2.000.000,AG,42a84f
 Scrierea gresita a unui nume de jucator,$2.000.000,AG,42a84f
 Scrierea gresita a unui numar de telefon,$2.000.000,AG,42a84f
-Scrierea gresita a unui detaliu, $2.000.000,AG,42a84f
+Scrierea gresita a unui detaliu,$2.000.000,AG,42a84f
 Greseala de structura,$2.000.000,AG,42a84f
 Ordinea gresita a detaliilor,$3.000.000,AG,42a84f
 Omiterea unui semn de punctuatie,$2.000.000,AG,42a84f
