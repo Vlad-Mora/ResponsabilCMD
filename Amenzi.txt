@@ -1,29 +1,25 @@
-{
-    {"Caps Lock pe chat-ul factiunii (minim 5 caractere)", "$3.000.000", "Generale", "a87842"},
-    {"Excess de caractere", "$3.000.000", "Generale", "a87842"},
-    {"Afaceri pe chat-ul factiunii", "$3.000.000", "Generale", "a87842"},
-
-    {"Greseala de scriere", "$2.000.000", "Anunturi RP", "a5a842"},
-    {"Greseala de scriere", "$3.000.000", "Anunturi RP", "a5a842"},
-
-    {"Scrierea gresita a unui nume de vehicul", "$2.000.000", "AG", "42a84f"},
-    {"Scrierea gresita a unui nume de jucator", "$2.000.000", "AG", "42a84f"},
-    {"Scrierea gresita a unui numar de telefon", "$2.000.000", "AG", "42a84f"},
-    {"Scrierea gresita a unui detaliu", "$2.000.000", "AG", "42a84f"},
-    {"Greseala de structura", "$2.000.000", "AG", "42a84f"},
-    {"Ordinea gresita a detaliilor", "$3.000.000", "AG", "42a84f"},
-    {"Omiterea unui semn de punctuatie", "$2.000.000", "AG", "42a84f"},
-    {"Omiterea semn '$'", "$2.000.000", "AG", "42a84f"},
-    {"Omiterea punctelor marcatoare in numere mari", "$2.000.000", "AG", "42a84f"},
-    {"Alta greseala de scriere", "$2.000.000", "AG", "42a84f"},
-    {"Alta greseala de scriere", "$3.000.000", "AG", "42a84f"},
-    {"Omiterea unui detaliu", "$2.000.000", "AG", "42a84f"},
-    {"Adaugarea particularitatii VIP unui vehicul ce nu o poate avea", "$3.000.000", "AG", "42a84f"},
-    
-    {"Greseala de scriere", "$2.000.000", "Live / emisiune", "42a3a8"},
-    {"Greseala de scriere", "$3.000.000", "Live / emisiune", "42a3a8"},
-    {"Acceptare unei intrebari din public la singular intr-un interviu dublu/triplu", "$3.000.000", "Live / emisiune", "42a3a8"},
-    {"Greseala de structura", "$3.000.000", "Live / emisiune", "42a3a8"},
-    {"Cand intervevatul depaseste limita de randuri la finalul live-ului (in functie de randuri extra)", "$3.000.000", "Live / emisiune", "42a3a8"},
-    {"Intrebari acceptate care contin greseli gramaticale / de scriere", "$2.000.000", "Live / emisiune", "42a3a8"}
-}
+O linie evidenta ca e actualizata ;),$4.000.000,Generale,a87842
+Caps Lock pe chat-ul factiunii (minim 5 caractere),$3.000.000,Generale,a87842
+Excess de caractere,$3.000.000,Generale,a87842
+Afaceri pe chat-ul factiunii,$3.000.000,Generale,a87842
+Greseala de scriere,$2.000.000,Anunturi RP,a5a842
+Greseala de scriere,$3.000.000,Anunturi RP,a5a842
+Scrierea gresita a unui nume de vehicul,$2.000.000,AG,42a84f
+Scrierea gresita a unui nume de jucator,$2.000.000,AG,42a84f
+Scrierea gresita a unui numar de telefon,$2.000.000,AG,42a84f
+Scrierea gresita a unui detaliu, $2.000.000,AG,42a84f
+Greseala de structura,$2.000.000,AG,42a84f
+Ordinea gresita a detaliilor,$3.000.000,AG,42a84f
+Omiterea unui semn de punctuatie,$2.000.000,AG,42a84f
+Omiterea semn '$',$2.000.000,AG,42a84f
+Omiterea punctelor marcatoare in numere mari,$2.000.000,AG,42a84f
+Alta greseala de scriere,$2.000.000,AG,42a84f
+Alta greseala de scriere,$3.000.000,AG,42a84f
+Omiterea unui detaliu,$2.000.000,AG,42a84f
+Adaugarea particularitatii VIP unui vehicul ce nu o poate avea,$3.000.000,AG,42a84f
+Greseala de scriere,$2.000.000,Live / emisiune,42a3a8
+Greseala de scriere,$3.000.000,Live / emisiune,42a3a8
+Acceptare unei intrebari din public la singular intr-un interviu dublu/triplu,$3.000.000,Live / emisiune,42a3a8
+Greseala de structura,$3.000.000,Live / emisiune,42a3a8
+Cand intervevatul depaseste limita de randuri la finalul live-ului (in functie de randuri extra),$3.000.000,Live / emisiune,42a3a8
+Intrebari acceptate care contin greseli gramaticale / de scriere,$2.000.000,Live / emisiune,42a3a8
